@@ -1,5 +1,5 @@
 <?php 
-	$x = "Selamat Sore"
+	$x = "Welcome"
 	$y = "Sehat Selalu"
 	echo $x;
 	echo $y;
